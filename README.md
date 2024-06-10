@@ -34,9 +34,3 @@ To run this project locally, follow these steps:
 3. **Open `index.html` in your web browser:**
 
     Simply double-click on the `index.html` file.
-
-- **Name:** Lindrit Bajrami
-- **GitHub:** [Lindrit Bajrami](https://github.com/lindritbajrami)
-- **Project Link:** [Password Generator](https://github.com/lindritbajrami/password-generator)
-
-Thank you for using the Password Generator! Enjoy creating secure passwords with ease.
