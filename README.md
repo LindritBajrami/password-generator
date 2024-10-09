@@ -15,22 +15,6 @@ Welcome to the Password Generator web application! This project provides a simpl
 - **CSS3:** Styling and layout.
 - **JavaScript:** Core functionality for password generation.
 
-## Setup and Installation
+## Deployment
 
-To run this project locally, follow these steps:
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/lindritbajrami/password-generator.git
-    ```
-
-2. **Navigate to the project directory:**
-
-    ```bash
-    cd password-generator
-    ```
-
-3. **Open `index.html` in your web browser:**
-
-    Simply double-click on the `index.html` file.
+This app is deployed and can be accessed at https://lindritbajrami.github.io/password-generator/
